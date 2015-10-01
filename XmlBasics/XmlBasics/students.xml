@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="students.xslt"?>
+<students xmlns="http://www.sofia.edu/academics/school-computer-science/master-science-computer-science/master-science-computer-science-curriculum/">
+  <student>
+    <name>Ivan Ivanov</name>
+    <sex>Male</sex>
+    <birth_day>1995-01-01</birth_day>
+    <phone>+359888888888</phone>
+    <email>ivan@gmail.com</email>
+    <course>Programming</course>
+    <specialty>Web</specialty>
+    <faculty_number>1234567</faculty_number>
+    <exams>
+      <exam>
+        <exam_name>JS-Basics</exam_name>
+        <tutor>
+          <tutor_name>Doncho Minkov</tutor_name>
+          <endorsments>HTML,JS professional</endorsments>
+        </tutor>
+        <score>200</score>
+        <exam_date>2015-07-21</exam_date>
+      </exam>
+      <exam>
+        <exam_name>JS-OOP</exam_name>
+        <tutor>
+          <tutor_name>Doncho Minkov</tutor_name>
+          <endorsments>HTML,JS professional</endorsments>
+        </tutor>
+        <score>70</score>
+        <exam_date>2015-08-21</exam_date>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Vanya Ivanova</name>
+    <sex>Female</sex>
+    <birth_day>1999-09-09</birth_day>
+    <phone>+359999999999</phone>
+    <email>vanya@abv.bg</email>
+    <course>Programming</course>
+    <specialty>Mobile</specialty>
+    <faculty_number>7654321</faculty_number>
+    <exams>
+      <exam>
+        <exam_name>JS-Basics</exam_name>
+        <tutor>
+          <tutor_name>Doncho Minkov</tutor_name>
+          <endorsments>HTML,JS professional</endorsments>
+        </tutor>
+        <score>150</score>
+        <exam_date>2015-07-21</exam_date>
+      </exam>
+      <exam>
+        <exam_name>JS-OOP</exam_name>
+        <tutor>
+          <tutor_name>Doncho Minkov</tutor_name>
+          <endorsments>HTML,JS professional</endorsments>
+        </tutor>
+        <score>50</score>
+        <exam_date>2015-08-21</exam_date>
+      </exam>
+    </exams>
+  </student>
+</students>
