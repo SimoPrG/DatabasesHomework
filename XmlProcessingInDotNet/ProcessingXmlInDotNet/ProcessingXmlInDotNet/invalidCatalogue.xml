@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogue>
+  <album>
+    <producer>Drisko</producer>
+    <name>Zlatnite hitove na Lamqta</name>
+    <artist>Mc Petko</artist>
+    <year>1998</year>
+    <price>22</price>
+    <songs>
+      <song>
+        <title>1. Te sa zeleni</title>
+      </song>
+      <song>
+        <title>2. Pachata</title>
+        <duration>4.4</duration>
+      </song>
+      <song>
+        <title>3. Nie sme veliki</title>
+        <duration>2.32</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>
